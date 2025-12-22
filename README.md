@@ -1,6 +1,7 @@
 # Hi, I'm Sadun Abeygunawardana 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sandun-abeygunawardana/)](https://www.linkedin.com/in/sandun-abeygunawardana/)
+[LinkedIn](https://www.linkedin.com/in/sandun-abeygunawardana/)
+[Website](https://sandun-abey.github.io/)
 
 ### Software Engineer | Full Stack Developer
 
